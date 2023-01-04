@@ -4,7 +4,7 @@ const server = jsonServer.create()
 
 const router = jsonServer.router('./db.json')
 const middlewares = jsonServer.defaults()
- 
+// https://nervous-peplum-ox.cyclic.app/api/
 server.use(middlewares)
 server.use('/api', router)
 server.listen(process.env.PORT || 3000, () => {
