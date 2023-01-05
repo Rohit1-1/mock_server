@@ -46,6 +46,24 @@
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
+    },
+     {
+      "id": 3,
+      "brand": "Honda",
+			"type":"Manual",
+      "year": 2019,
+      "kms": 20000,
+      "Description": "Honda Altroz with all original documents",
+      "Price": 600000
+    },
+    {
+      "id": 4,
+      "brand": "Tata",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 400000
     }
   ],
   "wishlisted_cars": [
